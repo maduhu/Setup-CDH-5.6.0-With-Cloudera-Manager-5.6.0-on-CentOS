@@ -1,6 +1,6 @@
 # Setup-CDH-5.6.0-With-Cloudera-Manager-5.6.0-on-CentOS
 
-#STEP - 1
+##STEP - 1
 Prerequisites
 
 Ensure environment is properly configured to resolve hostname to ip addresses using /etc/hosts
